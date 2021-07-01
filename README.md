@@ -1,1 +1,80 @@
-# vs_code
+{
+  "editor.fontSize": 14,
+  "editor.fontFamily": "\"IBMPlexMono\", \"iA Writer Mono S\", \"JetBrains Mono\", \"Dank Mono\", \"Fira Code\", monospace",
+  "editor.fontLigatures": true,
+  "files.autoSave": "onWindowChange",
+  "editor.tabSize": 3,
+  "editor.wordWrap": "off",
+  "terminal.integrated.fontSize": 18,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": true,
+  "workbench.sideBar.location": "right",
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.cursorBlinking": "expand",
+  "workbench.iconTheme": "material-icon-theme",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "workbench.startupEditor": "none",
+  "tabnine.experimentalAutoImports": true,
+  "git.autofetch": true,
+  "powermode.enabled": true,
+
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (EEx)",
+    "HTML (Eex)",
+    "plist"
+  ],
+  "powermode.comboThreshold": 1,
+  "powermode.presets": "flames",
+  "terminal.integrated.fontFamily": "monospace",
+  "blockman.n04ColorComboPreset": "Classic Dark 1 (Solid colors)",
+  "blockman.n23AnalyzeSquareBrackets": true,
+  "blockman.n27AlsoRenderBlocksInsideSingleLineAreas": true,
+  "blockman.n24AnalyzeRoundBrackets": true,
+  "blockman.n25AnalyzeTags": false,
+  "blockman.n03MaxDepth": 7,
+  "bracket-pair-colorizer-2.activeScopeCSS": [
+    "borderStyle : solid",
+    "borderWidth : 1px",
+    "borderColor : {color}",
+    "opacity: 0.5"
+  ],
+  "editor.codeLensFontFamily": "cascadia code',Consolas,'Courier New',monospace,",
+  "editor.renderIndentGuides": false,
+  "editor.highlightActiveIndentGuide": false,
+  "explorer.confirmDelete": false,
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f"
+  },
+  "diffEditor.wordWrap": "off",
+  "[markdown]": {
+    "editor.wordWrap": "off",
+    "editor.quickSuggestions": false
+  },
+  "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
+  "window.zoomLevel": 1
+}
