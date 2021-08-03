@@ -1,6 +1,6 @@
 {
   "editor.fontSize": 14,
-  "editor.fontFamily": "\"IBMPlexMono\", \"iA Writer Mono S\", \"JetBrains Mono\", \"Dank Mono\", \"Fira Code\", monospace",
+  "editor.fontFamily": "Fira Code SemiBold, Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "files.autoSave": "onWindowChange",
   "editor.tabSize": 3,
@@ -18,7 +18,7 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.cursorBlinking": "expand",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.donotVerifyTags": true,
   "workbench.startupEditor": "none",
@@ -67,14 +67,19 @@
   "editor.highlightActiveIndentGuide": false,
   "explorer.confirmDelete": false,
   "workbench.colorCustomizations": {
+    "statusBar.background": "#ffa600",
+    "activityBar.background": "#ff8800",
+    "scrollbarSlider.background": "#a5a5a5",
     "editor.lineHighlightBackground": "#1073cf2d",
-    "editor.lineHighlightBorder": "#9fced11f"
+    "editor.lineHighlightBorder": "#9fced11f",
+    "sideBar.border": "#98cf00"
   },
   "diffEditor.wordWrap": "off",
   "[markdown]": {
     "editor.wordWrap": "off",
     "editor.quickSuggestions": false
   },
-  "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
-  "window.zoomLevel": 1
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+  "window.zoomLevel": 1,
+  "editor.fontWeight": 1000
 }
