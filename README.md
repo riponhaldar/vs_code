@@ -62,7 +62,7 @@
   "explorer.confirmDelete": false,
   "workbench.colorCustomizations": {
     "statusBar.background": "#000000fd",
-    "activityBar.background": "#ecb314",
+    "activityBar.background": "#37332e",
     "scrollbarSlider.background": "#9e9b00d7",
     "editor.lineHighlightBackground": "#66602b2d",
     "editor.lineHighlightBorder": "#9fced11f",
@@ -116,7 +116,6 @@
   // SOP's Import Cost Extension Settings.
 
   "editor.formatOnSave": true,
-  "indentRainbow.errorColor": "rgba(16,16,16,0.1)",
-  "window.zoomLevel": -1
+  "indentRainbow.errorColor": "rgba(16,16,16,0.1)"
 }
 
